@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void conversor(int num)
+void conversor(int num) 
 {
 	int i = 0, j = 0, num_convertido[100], negative = 0;
 
