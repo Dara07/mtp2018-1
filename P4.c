@@ -3,7 +3,7 @@
 int pow(int exp)
 {
 	int pot = 10;
-	if(exp >= 2)
+	if(exp >= 2) 
 	{
 		for(exp; exp > 1; exp--)
 		{
